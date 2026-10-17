@@ -1,0 +1,8 @@
+# $schema: https://raw.githubusercontent.com/knative/func/main/schema/func_yaml-schema.json
+# yaml-language-server: $schema=https://raw.githubusercontent.com/knative/func/main/schema/func_yaml-schema.json
+specVersion: 0.36.0
+name: workflow-watch-go
+runtime: go
+registry: image-registry.openshift-image-registry.svc:5000/demo
+namespace: demo
+created: 2026-10-17T11:43:36.614367534+02:00
