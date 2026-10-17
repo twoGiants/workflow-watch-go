@@ -2,6 +2,7 @@
 //
 // This package name can be changed when using the "host" builder
 // (as can the module name in go.mod)
+// hello
 package function
 
 import (
